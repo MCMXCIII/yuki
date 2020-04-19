@@ -1,6 +1,6 @@
 ![Screenshot](http://files.corygibbons.com/cory-gibbons-yuki.png)
 # Yuki
-Yuki is a responsive masonry style theme for Tumblr by [@corygibbons](http://twitter.com/corygibbons).
+Yuki is a responsive masonry style theme for Tumblr an offset from Cory Gibbons version.
 
 ## Notes
 Currently the theme works best for photo based blogs. At the moment all post types are supported but some work better than others, will create better support in the future when I have time.
@@ -8,7 +8,7 @@ Currently the theme works best for photo based blogs. At the moment all post typ
 _Version 1.0.0 is slowly underway in the `develop` branch._
 
 ## Install
-Copy and paste all contents from [yuki.html](https://raw.github.com/corygibbons/yuki/master/yuki.html) into your Tumblr theme customization window.
+Copy and paste all contents from [yuki.html]into your Tumblr theme customization window.
 
 ## Demo
 Demo available at [yuki-theme.tumblr.com](http://yuki-theme.tumblr.com)
